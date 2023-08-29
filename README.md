@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any project**
 
-- 💬 Ask me about **React, EJS, node.js, HTML, CSS, Tailwind CSS, Vanilla Js and Mongoose**
+- 💬 Ask me about **Next.JS, React, EJS, Node.js, HTML, CSS, Tailwind CSS, Vanilla Js, TypeScript, Prisma, and Mongoose**
 
 - ⚡ Fun fact: **I think I am funny.**
 
