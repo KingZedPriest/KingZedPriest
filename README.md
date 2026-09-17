@@ -1,32 +1,118 @@
-<h1 align="center">Hi 👋, I'm Charles Chukwuemeka</h1>
-<h3 align="center">Passionate Fullstack Developer Exploring the Web3 Frontier</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingzedpriest&label=Profile%20views&color=0e75b6&style=flat" alt="kingzedpriest" /> </p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · kingzedpriest</sub></p>
+<h1>Charles Chukwuemeka</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>A Fullstack developer, Killer in HTML5, CSS3, JavaScript, Bootstrap, Tailwind, EJS, HTMX, Riot, React, Next.JS, Node.JS, MongoDB, SQL, TS, Prisma, Solidity,&amp; Go</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Earth · Building at Priest</sub></p>
+<p><a href="https://github.com/kingzedpriest">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/Zed_Priest">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Charles Chukwuemeka animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingzedpriest" alt="kingzedpriest" /></a> </p>
+<h2>What teams can evaluate quickly</h2>
 
-- 🌱 I’m currently learning **Solidity and Go**
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · EJS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>38 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>799 contributions · 164 active days</p></td>
+</tr>
+</table>
 
-- 👯 I’m looking to collaborate on **Any project**
+<p><sub>A Fullstack developer, Killer in HTML5, CSS3, JavaScript, Bootstrap, Tailwind, EJS, HTMX, Riot, React, Next.JS, Node.JS, MongoDB, SQL, TS, Prisma, Solidity,&amp; Go</sub></p>
 
-- 💬 Ask me about **Nest, Fastify, Next.JS, React, Vue, EJS, HTMX, Node.js, Express, HTML, CSS, Tailwind CSS, Vanilla Js, TypeScript, Prisma, and Postgres, MongoDB**
+<h2>Proof at a glance</h2>
 
-- ⚡ Fun fact: **I think I am funny.**
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>38</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>799</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>16</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-- 📫 How to reach me **Charleschukwuemeka47@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zed_priest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zed_priest" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charles-chukwuemeka-b2b9a2270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-chukwuemeka-b2b9a2270" height="30" width="40" /></a>
-<a href="https://discord.gg/Zed Priest#1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zed Priest#1314" height="30" width="40" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Charles Chukwuemeka GitHub proof metrics" />
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2>Selected work</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingzedpriest&show_icons=true&locale=en&layout=compact" alt="kingzedpriest" /></p>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&repos=kingzedpriest%2Fwrinkle-free%2Ckingzedpriest%2FproductAPI%2Ckingzedpriest%2FMelvin-Trade%2Ckingzedpriest%2FKellydrillwater&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&repos=kingzedpriest%2Fwrinkle-free%2Ckingzedpriest%2FproductAPI%2Ckingzedpriest%2FMelvin-Trade%2Ckingzedpriest%2FKellydrillwater&v=recruiter-projects-1&mode=dark" width="100%" alt="Charles Chukwuemeka selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/KingZedPriest/wrinkle-free">wrinkle-free</a></h3>
+<p>A Laundry Management System (PWA) built with Next.js, TypeScript, TailwindCSS for Styling, ShadCN as the component library, Zustand for State Manageme</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/KingZedPriest/wrinkle-free">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingzedpriest&show_icons=true&locale=en" alt="kingzedpriest" /></p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/KingZedPriest/productAPI">productAPI</a></h3><p>Repository for a Product API, created using Node.js, Express. TypeScript, Zod, MongoDB and Mongoose.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/KingZedPriest/Melvin-Trade">Melvin-Trade</a></h3><p>A website built using Next.js 14, TailwindCSS, TypeScript and ShadCN as the component Library.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/KingZedPriest/Kellydrillwater">Kellydrillwater</a></h3><p>Official repository for Kellydrill Water's full-stack project. Developed using Next.js, TypeScript, and TailwindCSS for the frontend, with MongoDB as</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingzedpriest&" alt="kingzedpriest" /></p>
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Charles Chukwuemeka technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>71% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>EJS</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kingzedpriest&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48349554%3Fu%3D8a7c30573c70ac661048c3d83025bddf7445c5e0%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Charles Chukwuemeka contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/kingzedpriest">GitHub</a><br /><a href="https://x.com/Zed_Priest">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Charles Chukwuemeka · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
