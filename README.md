@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · kingzedpriest</sub></p>
 <h1>Charles Chukwuemeka</h1>
 <h2>Full-stack Engineer</h2>
-<p>A Fullstack developer, Killer in HTML5, CSS3, JavaScript, Bootstrap, Tailwind, EJS, HTMX, Riot, React, Next.JS, Node.JS, MongoDB, SQL, TS, Prisma, Solidity,&amp; Go</p>
+<p>A full-stack software developer, proficient in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ShadCN, Zustand, EJS, HTMX, Riot, React, Next.JS, Node.JS, Express, Nest, Fastify, MongoDB, PostgreSQL, TypeScript, Prisma, Solidity,&amp; Go. Flutter (App Development)</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Earth · Building at Priest</sub></p>
 <p><a href="https://github.com/kingzedpriest">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/Zed_Priest">X</a></p>
@@ -25,13 +25,13 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · EJS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack engineer · TypeScript · CSS · React</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>38 repositories · 2 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>799 contributions · 164 active days</p></td>
 </tr>
 </table>
 
-<p><sub>A Fullstack developer, Killer in HTML5, CSS3, JavaScript, Bootstrap, Tailwind, EJS, HTMX, Riot, React, Next.JS, Node.JS, MongoDB, SQL, TS, Prisma, Solidity,&amp; Go</sub></p>
+<p><sub>A full-stack software developer, proficient in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ShadCN, Zustand, EJS, HTMX, Riot, React, Next.JS, Node.JS, Express, Nest, Fastify, MongoDB, PostgreSQL, TypeScript, Prisma, Solidity,&amp; Go. Flutter (App Development)</p>
 
 <h2>Proof at a glance</h2>
 
@@ -63,7 +63,7 @@
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/KingZedPriest/wrinkle-free">wrinkle-free</a></h3>
-<p>A Laundry Management System (PWA) built with Next.js, TypeScript, TailwindCSS for Styling, ShadCN as the component library, Zustand for State Manageme</p>
+<p>A Laundry Management System (PWA) built with Next.js, TypeScript, Prisma, MongoDB, AWS (S3 Bucket), TailwindCSS for Styling, ShadCN as the component library, Zustand for State Manageme</p>
 <p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
 <p><a href="https://github.com/KingZedPriest/wrinkle-free">Read the repository →</a></p>
 </td>
@@ -93,7 +93,7 @@
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>12% of public code</sub></td>
 <td width="20%" align="center"><strong>EJS</strong><br /><sub>9% of public code</sub></td>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>Go</strong><br /><sub>2% of public code</sub></td>
 </tr>
 </table>
 
