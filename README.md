@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · kingzedpriest</sub></p>
 <h1>Charles Chukwuemeka</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack Engineer</h2>
 <p>A Fullstack developer, Killer in HTML5, CSS3, JavaScript, Bootstrap, Tailwind, EJS, HTMX, Riot, React, Next.JS, Node.JS, MongoDB, SQL, TS, Prisma, Solidity,&amp; Go</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Earth · Building at Priest</sub></p>
