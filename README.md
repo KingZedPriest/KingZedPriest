@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · kingzedpriest</sub></p>
 <h1>Charles Chukwuemeka</h1>
 <h2>Full-stack Engineer</h2>
-<p>A full-stack software developer, proficient in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ShadCN, Zustand, EJS, HTMX, Riot, React, Next.JS, Node.JS, Express, Nest, Fastify, MongoDB, PostgreSQL, TypeScript, Prisma, Solidity,&amp; Go. Flutter (App Development)</p>
+<p>A full-stack software developer, proficient in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ShadCN, Zustand, EJS, HTMX, Riot, React, TypeScript, Next.JS, Node.JS, Express, Nest, Fastify, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, AWS Cloud Services, Solidity,&amp; Go. Flutter (App Development)</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Earth · Building at Priest</sub></p>
 <p><a href="https://github.com/kingzedpriest">GitHub</a> &nbsp;·&nbsp; <a href="https://x.com/Zed_Priest">X</a></p>
@@ -31,7 +31,7 @@
 </tr>
 </table>
 
-<p><sub>A full-stack software developer, proficient in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ShadCN, Zustand, EJS, HTMX, Riot, React, Next.JS, Node.JS, Express, Nest, Fastify, MongoDB, PostgreSQL, TypeScript, Prisma, Solidity,&amp; Go. Flutter (App Development)</p>
+<p><sub>A full-stack software developer, proficient in HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, ShadCN, Zustand, EJS, HTMX, Riot, React, TypeScript, Next.JS, Node.JS, Express, Nest, Fastify, MongoDB, Mongoose, PostgreSQL, Prisma, Redis, AWS Cloud Services, Solidity,&amp; Go. Flutter (App Development)</p>
 
 <h2>Proof at a glance</h2>
 
